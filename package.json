@@ -1,0 +1,43 @@
+{
+  "name": "router-example",
+  "version": "0.1.0",
+  "description": "Use React Router DOM to create a Single Page Application",
+  "private": false,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "gh-pages": "^2.1.1",
+    "install": "^0.13.0",
+    "npm": "^6.13.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.1.2",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^3.1.1",
+    "webpack": "4.39.1"
+  },
+  "devDependencies": {
+    "html-loader": "^0.5.5"
+  }
+}
